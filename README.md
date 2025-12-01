@@ -19,6 +19,11 @@
 
 <img width="1132" height="629" alt="image" src="https://github.com/user-attachments/assets/1017e02a-1249-420e-938b-e903640e500f" />
 
+
+https://github.com/user-attachments/assets/245c6b93-cc5f-49ea-8ca2-e3dec870e65d
+
+
+
 ## 📦 安装
 
 1. 将本插件放置在 `custom_nodes/ComfyUI-music` 目录下
@@ -96,6 +101,7 @@
 Bilibili：[我的B站主页](https://space.bilibili.com/498399023?spm_id_from=333.1007.0.0)
 QQ号：3260561522
 wechat微信: DLONG189one
+
 
 
 
