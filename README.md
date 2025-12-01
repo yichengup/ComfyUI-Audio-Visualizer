@@ -85,31 +85,7 @@
 2. 关闭其他占用资源的标签页
 3. 使用较简单的可视化模式（wave 模式性能最好）
 
-## 📝 更新日志
-
-### v2.0.0 (2025-12-XX)
-- 🎯 取消自定义节点，改为对官方音频节点的零侵入式扩展
-- 🧩 Load/Save/Preview 节点播放时自动出现可视化
-- 🪟 新增右上角菜单（启用开关、模式切换、背景上传）
-
-### v1.0.0 (2025-12-01)
-- 初始版本，提供 `Load Audio with Visualizer` 自定义节点
-
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request！
-
-## 📄 许可证
-
-本项目基于参考项目 `sonicpulse-visualizer` 开发，遵循相应的开源许可证。
-
-## 🙏 致谢
-
-- 参考项目: [sonicpulse-visualizer](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
-- ComfyUI 社区
-
----
-
 **享受音频可视化的乐趣！** 🎵✨
+
 
 
